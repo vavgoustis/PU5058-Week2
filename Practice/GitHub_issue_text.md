@@ -8,19 +8,25 @@
   3. Paste the text from this file into the new issue
   4. Add your name (or a nickname, whatever you prefer) in the Title field above ^
   5. Click 'Submit new issue'  
---->
+
 
 Hello everyone! Please use this checklist over the next few weeks as you go through your health data science journey :tada:. Tick each item as your complete it!
+
+--->
+
+By modifying this file, I am completing step 5 of the Week 2 practice assignment.
 
 ***
 
 Week 2: Your first repository
-- [ ] 1. Install GitHub desktop and connect it to your GitHub account
-- [ ] 2. Create a public repository and add a readme file
-- [ ] 3. Publish the repository to GitHub
-- [ ] 4. Add a new file in your local repository, commit the file addition, and push it to the remote repository on GitHub
-- [ ] 5. Modify the new file (or the Readme file), commit the change, and push it to the remote repository on GitHub
+- [x] 1. Install GitHub desktop and connect it to your GitHub account
+- [x] 2. Create a public repository and add a readme file
+- [x] 3. Publish the repository to GitHub
+- [x] 4. Add a new file in your local repository, commit the file addition, and push it to the remote repository on GitHub
+- [x] 5. Modify the new file (or the Readme file), commit the change, and push it to the remote repository on GitHub
 - [ ] 6. Comment on this issue with a link to your repository
+
+<!---
 
 Week 4: Rmarkdown
 - [ ] 1. Create a new public repository on GitHub Desktop and add a readme file.
@@ -44,3 +50,5 @@ Week 5: Practical: reading data in R
 Week 6-10: Your project
 Now that you have become familiar with GitHub, you can start using it to prepare your report, and get help and feedback from your group members.
 - [ ] Comment on this issue with a link to your report repository
+
+--->
