@@ -18,13 +18,13 @@ By modifying this file, I am completing step 5 of the Week 2 practice assignment
 
 ***
 
-Week 2: Your first repository
-- [x] 1. Install GitHub desktop and connect it to your GitHub account
-- [x] 2. Create a public repository and add a readme file
-- [x] 3. Publish the repository to GitHub
-- [x] 4. Add a new file in your local repository, commit the file addition, and push it to the remote repository on GitHub
-- [x] 5. Modify the new file (or the Readme file), commit the change, and push it to the remote repository on GitHub
-- [ ] 6. Comment on this issue with a link to your repository
+	Week 2: Your first repository
+	- [x] 1. Install GitHub desktop and connect it to your GitHub account
+	- [x] 2. Create a public repository and add a readme file
+	- [x] 3. Publish the repository to GitHub
+	- [x] 4. Add a new file in your local repository, commit the file addition, and push it to the remote repository on GitHub
+	- [x] 5. Modify the new file (or the Readme file), commit the change, and push it to the remote repository on GitHub
+	- [ ] 6. Comment on this issue with a link to your repository
 
 <!---
 
